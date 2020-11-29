@@ -1,4 +1,4 @@
-![](media/FoodiumHeader.png)
+![](onlynewsappbanner.png)
 
 # OnlyNews  
 
