@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_article_details">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        >
+
+        <TextView
+            android:id="@+id/articleTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:text="Moderna Vs Pfizer: When Will The Vaccines Be Ready? - NDTV"
+            android:textSize="21sp"
+            android:fontFamily="@font/google_sans"
+            android:textColor="@color/colorPrimaryDark"
+            app:layout_constraintWidth_percent="0.6"
+            android:minLines="2"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:padding="15dp"
+            />
+
+        <TextView
+            android:id="@+id/articleContent"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:autoLink="all"
+            android:fontFamily="@font/google_sans"
+            android:padding="15dp"
+            android:text="The first two Covid-19 vaccines out of the gate have now delivered positive news in the quest to end the pandemic. The encouraging late-stage trial results from Pfizer Inc. and Moderna Inc. set a high bar for rivals such as AstraZeneca Plc that are expected to follow soon with their own pivotal reports.
+The data will likely increase confidence that more vaccines will work and that the world may soon find a way to get the coronavirus under control. Here's what we know about the two shots.
+
+How do the results compare?
+
+Moderna said Monday its vaccine was 94.5% effective in a preliminary analysis. That compares favorably with the lofty level achieved a week earlier by Pfizer and its partner, BioNTech SE. The shot created by the U.S. and German companies was found to be more than 90% effective. Moderna data showed that side effects were generally short-lived and there were no significant safety concerns, while no serious Covid cases developed among trial participants who got the vaccine. U.S. regulators earlier this year released guidance that said any shot should be at least 50% effective.
+
+What do the two vaccines have in common?"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="15sp"
+            app:layout_constraintLeft_toLeftOf="parent"
+
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/articleTitle"
+            android:textColorLink="@color/colorRed"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnlyNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="only">Only</string>
+    <string name="news">News</string>
+    <string name="bookmarks">Bookmarks</string>
+</resources>
