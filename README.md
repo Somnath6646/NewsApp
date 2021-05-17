@@ -1,12 +1,12 @@
-![](onlynewsappbanner.png)
 
-# OnlyNews  
 
-**OnlyNews** is basically a sample news app which is built to demonstrate the modern android tools. 
+# NewsApp  
+
+**News** is basically a sample news app which is built to demonstrate the modern android tools. 
 
 **You can Install and test latest OnlyNews app from below 👇**
 
-[![Only News App](https://img.shields.io/badge/OnlyNews-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/somnath045/OnlyNews/releases/download/1.0/onlynewsrelease.apk)
+[![News App](https://img.shields.io/badge/OnlyNews-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/somnath045/OnlyNews/releases/download/1.0/onlynewsrelease.apk)
 
 
 ## About
