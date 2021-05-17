@@ -6,7 +6,7 @@
 
 **You can Install and test latest OnlyNews app from below 👇**
 
-[![News App](https://img.shields.io/badge/OnlyNews-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/somnath045/OnlyNews/releases/download/1.0/onlynewsrelease.apk)
+[![News App](https://img.shields.io/badge/NewsApp-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/somnath045/OnlyNews/releases/download/1.0/onlynewsrelease.apk)
 
 
 ## About
